@@ -6,7 +6,7 @@ Created on 27-Jul-2014
 import requests;
 import json;
 
-from http_get_json.constants import  *
+from constants import  *
 
 print(str(url));
 
